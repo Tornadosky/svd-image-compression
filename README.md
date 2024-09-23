@@ -2,8 +2,6 @@
 
 Singular Value Decomposition (SVD) can be used for image compression, offering a balance between quality and file size. The tool supports both **grayscale** and **color** images and lets you adjust the compression level by varying the rank approximation.
 
-##
-
 ![SVD gif](images/svd-image-reconstruction.gif)
 
 ## How SVD Works
